@@ -1,6 +1,7 @@
 # Rotina Pro - Landing Page
 
-Landing page moderna e persuasiva criada para promover e vender o **Rotina Pro**, um aplicativo de gerenciamento de rotina diária.
+Landing page moderna e persuasiva criada para promover e vender o **Rotina Pro**, um aplicativo de gerenciamento de rotina diária. 
+https://dailyroutineapp.vercel.app/
 
 ## 📌 Descrição
 
